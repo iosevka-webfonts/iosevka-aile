@@ -1,4 +1,4 @@
-# Iosevka Aile WebFont 27.1.0
+# Iosevka Aile WebFont 27.2.0
 
 ## How to use
 
